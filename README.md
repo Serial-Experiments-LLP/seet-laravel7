@@ -1,6 +1,6 @@
 ## About Laravel
-This is a public clone of Larave (https://github.com/laravel/laravel)
-A few minor tweaks have been done to make it easy to launch:
+This is a public clone of Laravel (https://github.com/laravel/laravel)
+A few minor tweaks have been done to make it launch ready for custom apps:
 - welcome.blade.php takes the title and name from .env
 - links on welcome.blade.php have been removed
 - package.json has been updated to use --no-progress on dev builds to reduce size of build logs in CI/CD
