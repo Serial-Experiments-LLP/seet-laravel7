@@ -1,4 +1,4 @@
-## About Laravel
+## About this repository
 This is a public clone of Laravel (https://github.com/laravel/laravel)
 A few minor tweaks have been done to make it launch ready for custom apps:
 - welcome.blade.php takes the title and name from .env
